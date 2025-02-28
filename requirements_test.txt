@@ -10,7 +10,7 @@
 codecov==2.1.12
 coverage==6.1.2
 freezegun==1.1.0
-jsonpickle==1.4.1
+jsonpickle==1.5.0
 mock-open==1.4.0
 mypy==0.910
 pre-commit==2.15.0
@@ -30,7 +30,7 @@ requests_mock==1.9.2
 responses==0.12.0
 respx==0.19.0
 stdlib-list==0.7.0
-tqdm==4.49.0
+tqdm==4.66.3
 types-atomicwrites==1.4.1
 types-croniter==1.0.0
 types-backports==0.1.3
